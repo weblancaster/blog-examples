@@ -1,4 +1,6 @@
-blog-examples
+Blog examples
 =============
 
-Examples posted on my blog.
+All my examples posted on my blog will be here organized as folders.
+
+(ps: feel free to make the examples better).
