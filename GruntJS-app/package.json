@@ -1,0 +1,14 @@
+{
+  "name": "GruntJS-app",
+  "title": "GruntJS-app",
+  "description": "Simple introduction to GruntJS set up",
+  "author": "your name",
+  "homepage": "your project website",
+  "version": "0.0.1",
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-contrib-watch": "~0.4.4",
+    "grunt-contrib-uglify": "~0.2.2",
+    "grunt-contrib-htmlmin": "~0.1.3"
+  }
+}
