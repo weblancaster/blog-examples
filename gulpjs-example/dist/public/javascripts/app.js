@@ -1,0 +1,1 @@
+!function(n){var i=i||{};i.init={message:function(){n.console.log("Running")}},i.init.message()}(window);

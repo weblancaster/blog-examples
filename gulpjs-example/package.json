@@ -1,0 +1,21 @@
+{
+  "name": "gulpjs",
+  "version": "0.0.1",
+  "description": "GulpsJS task runner example",
+  "main": "index.js",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/weblancaster/blog-examples/gulpjs-example"
+  },
+  "author": "Michael Lancaster",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "~3.2.4",
+    "gulp-compass": "~1.0.3",
+    "gulp-minify-html": "~0.1.0",
+    "gulp-uglify": "~0.1.0",
+    "gulp-watch": "~0.3.2",
+    "gulp-sass": "~0.2.3"
+  }
+}

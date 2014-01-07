@@ -1,0 +1,32 @@
+* {
+//  @include box-sizing(border-box);
+}
+
+html {
+  font: 62.5% helvetica, 'sans-serif', arial;
+}
+
+body {
+  color: #333;
+}
+
+.box {
+  width: 500px;
+  height: 500px;
+  background: gray;
+
+  & .box_child {
+    width: 250px;
+    height: 250px;
+    margin: 0 auto;
+    background: lemonchiffon;
+  }
+}
+
+a {
+  color: #00BFFF;
+
+  &:hover {
+    color: #123456;
+  }
+}

@@ -19,5 +19,3 @@ app.get("/views", function(req, res) {
 });
 
 app.listen(port);
-
-console.log('Node.js server running!');
